@@ -21,8 +21,8 @@ $(document).ready(function(){
             //console.log($("#name").val());
             //console.log($("#pw").val());
             
-            $(document).find("#pogi").html($("#name").val());
-            $(document).find("#gg").html($("#pw").val());
+            //$(document).find("#pogi").html($("#name").val());
+            //$(document).find("#gg").html($("#pw").val());
             alert("New data added!!!");
         },
         error: function (error) {
